@@ -4616,10 +4616,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.15.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.16.apk",
     "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "sources": [
       {
@@ -25130,10 +25130,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.4.23.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.4.24.apk",
     "lang": "ru",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "sources": [
       {
@@ -27859,6 +27859,24 @@
         "lang": "vi",
         "id": "6861496002170366525",
         "baseUrl": "https://nhattruyenqq.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: OTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.otruyen",
+    "apk": "tachiyomi-vi.otruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "OTruyen",
+        "lang": "vi",
+        "id": "8070757025584294717",
+        "baseUrl": "https://otruyen.cc",
         "versionId": 1
       }
     ]
