@@ -10988,10 +10988,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.66.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.67.apk",
     "lang": "en",
-    "code": 66,
-    "version": "1.4.66",
+    "code": 67,
+    "version": "1.4.67",
     "nsfw": 1,
     "sources": [
       {
@@ -11222,10 +11222,10 @@
   {
     "name": "Tachiyomi: Kagane",
     "pkg": "eu.kanade.tachiyomi.extension.en.kagane",
-    "apk": "tachiyomi-en.kagane-v1.4.10.apk",
+    "apk": "tachiyomi-en.kagane-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
@@ -17654,10 +17654,10 @@
   {
     "name": "Tachiyomi: LeerCapitulo",
     "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
-    "apk": "tachiyomi-es.leercapitulo-v1.4.12.apk",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.13.apk",
     "lang": "es",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
