@@ -9716,6 +9716,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comix",
+    "pkg": "eu.kanade.tachiyomi.extension.en.comix",
+    "apk": "tachiyomi-en.comix-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Comix",
+        "lang": "en",
+        "id": "7537715367149829912",
+        "baseUrl": "https://comix.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CulturedWorks",
     "pkg": "eu.kanade.tachiyomi.extension.en.culturedworks",
     "apk": "tachiyomi-en.culturedworks-v1.4.30.apk",
@@ -19911,10 +19929,10 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.44.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.45.apk",
     "lang": "id",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
@@ -20361,10 +20379,10 @@
   {
     "name": "Tachiyomi: Ikiru",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.43.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
@@ -20541,17 +20559,17 @@
   {
     "name": "Tachiyomi: Natsu",
     "pkg": "eu.kanade.tachiyomi.extension.id.natsu",
-    "apk": "tachiyomi-id.natsu-v1.4.30.apk",
+    "apk": "tachiyomi-id.natsu-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
         "name": "Natsu",
         "lang": "id",
         "id": "778073414277513172",
-        "baseUrl": "https://natsu.id",
+        "baseUrl": "https://natsu.tv",
         "versionId": 1
       }
     ]
@@ -22089,10 +22107,10 @@
   {
     "name": "Tachiyomi: Rawkuma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawkuma",
-    "apk": "tachiyomi-ja.rawkuma-v1.4.35.apk",
+    "apk": "tachiyomi-ja.rawkuma-v1.4.36.apk",
     "lang": "ja",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "sources": [
       {
@@ -23625,10 +23643,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.46.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -23733,10 +23751,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.7.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -28891,7 +28909,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywa.com",
+        "baseUrl": "http://www.zerobywb.com",
         "versionId": 1
       }
     ]
