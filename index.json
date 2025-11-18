@@ -23677,6 +23677,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Livre.to",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivreto",
+    "apk": "tachiyomi-pt.mangalivreto-v1.4.46.apk",
+    "lang": "pt-BR",
+    "code": 46,
+    "version": "1.4.46",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Manga Livre.to",
+        "lang": "pt-BR",
+        "id": "1281902081932329042",
+        "baseUrl": "https://mangalivre.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangá Mania",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangamania",
     "apk": "tachiyomi-pt.mangamania-v1.4.45.apk",
