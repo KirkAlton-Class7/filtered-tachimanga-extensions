@@ -9743,10 +9743,10 @@
   {
     "name": "Tachiyomi: Comix",
     "pkg": "eu.kanade.tachiyomi.extension.en.comix",
-    "apk": "tachiyomi-en.comix-v1.4.3.apk",
+    "apk": "tachiyomi-en.comix-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
@@ -21212,6 +21212,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Alphapolis",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.alphapolis",
+    "apk": "tachiyomi-ja.alphapolis-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Alphapolis",
+        "lang": "ja",
+        "id": "8869604174325264031",
+        "baseUrl": "https://www.alphapolis.co.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Big Comics",
     "pkg": "eu.kanade.tachiyomi.extension.ja.bigcomics",
     "apk": "tachiyomi-ja.bigcomics-v1.4.1.apk",
@@ -23794,10 +23812,10 @@
   {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
-    "apk": "tachiyomi-pt.mangastop-v1.4.33.apk",
+    "apk": "tachiyomi-pt.mangastop-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "sources": [
       {
