@@ -16122,24 +16122,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Tsumino",
-    "pkg": "eu.kanade.tachiyomi.extension.en.tsumino",
-    "apk": "tachiyomi-en.tsumino-v1.4.8.apk",
-    "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Tsumino",
-        "lang": "en",
-        "id": "6707338697138388238",
-        "baseUrl": "https://www.tsumino.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Utoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.utoon",
     "apk": "tachiyomi-en.utoon-v1.4.48.apk",
@@ -22420,6 +22402,24 @@
         "lang": "ja",
         "id": "2227240489801599645",
         "baseUrl": "https://yanmaga.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yomonga",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.yomonga",
+    "apk": "tachiyomi-ja.yomonga-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Yomonga",
+        "lang": "ja",
+        "id": "7561635982432447429",
+        "baseUrl": "https://www.yomonga.com",
         "versionId": 1
       }
     ]
