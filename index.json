@@ -16507,6 +16507,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Writer Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.writerscans",
+    "apk": "tachiyomi-en.writerscans-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Writer Scans",
+        "lang": "en",
+        "id": "561830040001881975",
+        "baseUrl": "https://writerscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: WuxiaWorld",
     "pkg": "eu.kanade.tachiyomi.extension.en.wuxiaworld",
     "apk": "tachiyomi-en.wuxiaworld-v1.4.46.apk",
@@ -16959,17 +16977,17 @@
   {
     "name": "Tachiyomi: Catharsis World",
     "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
-    "apk": "tachiyomi-es.catharsisworld-v1.4.54.apk",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.55.apk",
     "lang": "es",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
         "name": "Catharsis World",
         "lang": "es",
         "id": "2856082375563763469",
-        "baseUrl": "https://catharsisworld.vxviral.xyz",
+        "baseUrl": "https://catharsisworld.dig-it.info",
         "versionId": 2
       }
     ]
@@ -18093,10 +18111,10 @@
   {
     "name": "Tachiyomi: MHScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.mhscans",
-    "apk": "tachiyomi-es.mhscans-v1.4.53.apk",
+    "apk": "tachiyomi-es.mhscans-v1.4.54.apk",
     "lang": "es",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
@@ -22461,6 +22479,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Zenon",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.zenon",
+    "apk": "tachiyomi-ja.zenon-v1.4.8.apk",
+    "lang": "ja",
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Zenon",
+        "lang": "ja",
+        "id": "5353704886651317926",
+        "baseUrl": "https://comic-zenon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.blacktoon",
     "apk": "tachiyomi-ko.blacktoon-v1.4.1.apk",
@@ -23679,6 +23715,24 @@
         "lang": "pt-BR",
         "id": "1281902081932329042",
         "baseUrl": "https://mangalivre.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Online",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaonline",
+    "apk": "tachiyomi-pt.mangaonline-v1.4.45.apk",
+    "lang": "pt-BR",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Online",
+        "lang": "pt-BR",
+        "id": "3930085636692943299",
+        "baseUrl": "https://mangaonline.app",
         "versionId": 1
       }
     ]
