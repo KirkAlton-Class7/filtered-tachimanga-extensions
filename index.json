@@ -23765,10 +23765,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.50.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.51.apk",
     "lang": "pt-BR",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
@@ -24550,6 +24550,24 @@
         "lang": "pt-BR",
         "id": "8823653003339002799",
         "baseUrl": "https://tiamanhwa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ToonBr",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.toonbr",
+    "apk": "tachiyomi-pt.toonbr-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ToonBr",
+        "lang": "pt-BR",
+        "id": "534693024654050396",
+        "baseUrl": "https://beta.toonbr.com",
         "versionId": 1
       }
     ]
