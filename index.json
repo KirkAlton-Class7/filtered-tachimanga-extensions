@@ -27147,19 +27147,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Gri Melek",
+    "name": "Tachiyomi: Siyah Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.58.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.59.apk",
     "lang": "tr",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Gri Melek",
+        "name": "Siyah Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://siyahmelek.org",
+        "baseUrl": "https://siyahmelek.pro",
         "versionId": 1
       }
     ]
