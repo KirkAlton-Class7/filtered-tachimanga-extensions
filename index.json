@@ -2031,10 +2031,10 @@
   {
     "name": "Tachiyomi: FoamGirl",
     "pkg": "eu.kanade.tachiyomi.extension.all.foamgirl",
-    "apk": "tachiyomi-all.foamgirl-v1.4.2.apk",
+    "apk": "tachiyomi-all.foamgirl-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -14565,10 +14565,10 @@
   {
     "name": "Tachiyomi: Qi Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.12.apk",
+    "apk": "tachiyomi-en.qiscans-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
@@ -19475,10 +19475,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.52.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.53.apk",
     "lang": "fr",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
@@ -22576,6 +22576,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Zerosum Online",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.zerosumonline",
+    "apk": "tachiyomi-ja.zerosumonline-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Zerosum Online",
+        "lang": "ja",
+        "id": "8525996702535864887",
+        "baseUrl": "https://zerosumonline.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BlackToon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.blacktoon",
     "apk": "tachiyomi-ko.blacktoon-v1.4.1.apk",
@@ -24393,20 +24411,20 @@
     ]
   },
   {
-    "name": "Tachiyomi: Spectral Scan",
+    "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.48.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.49.apk",
     "lang": "pt-BR",
-    "code": 48,
-    "version": "1.4.48",
-    "nsfw": 0,
+    "code": 49,
+    "version": "1.4.49",
+    "nsfw": 1,
     "sources": [
       {
-        "name": "Spectral Scan",
+        "name": "Nexus Scan",
         "lang": "pt-BR",
         "id": "5304928452449566995",
-        "baseUrl": "https://www.spectral.wtf",
-        "versionId": 3
+        "baseUrl": "https://nexustoons.site",
+        "versionId": 1
       }
     ]
   },
@@ -28049,17 +28067,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.18.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.19.apk",
     "lang": "vi",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen57.com",
+        "baseUrl": "https://vlogtruyen59.com",
         "versionId": 1
       }
     ]
