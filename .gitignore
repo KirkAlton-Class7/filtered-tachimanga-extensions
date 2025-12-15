@@ -1,0 +1,71 @@
+# ───────────────────────────────
+# Repo Metadata & Artifacts
+# ───────────────────────────────
+
+# Keep .apk files — they are required for installable extensions in the app
+# *.apk
+
+# Keep icon files for UI display in Tachiyomi-based apps
+# *.png
+# *.webp
+
+# Log files generated during filtering or testing
+*.log
+
+# Backup folders or manual snapshots
+backup/
+
+# ───────────────────────────────
+# Secrets & Environment Configs
+# ───────────────────────────────
+
+.env
+*.pem
+
+# Ignore all .json files by default to prevent accidental commits of sensitive or runtime-generated data
+# Whitelist known metadata files your project relies on
+*.json
+!index.json
+!index.min.json
+!repo.json
+
+# ─────────────────────────────────────
+# Python Environments / Build Artifacts
+# ─────────────────────────────────────
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ───────────────────────────────
+# Jupyter Notebooks (if used)
+# ───────────────────────────────
+
+**/.ipynb_checkpoints
+.jupyter/
+python_sandbox.ipynb
+sandbox.ipynb
+
+# ───────────────────────────────
+# IDE / Editor Files
+# ───────────────────────────────
+
+.DS_Store
+.idea/*
+!.idea/*.iml
+!.idea/vcs.xml
+!.idea/modules.xml
+
+# ───────────────────────────────
+# Misc / Custom
+# ───────────────────────────────
+
+backup/
